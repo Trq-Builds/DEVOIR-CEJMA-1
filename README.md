@@ -7,6 +7,7 @@ Les corrections et compléments juridiques ont été ajoutés pour renforcer la 
 
 > [!NOTE]
 > **Note obtenue : 20/20 !**
+
 ---
 
 
