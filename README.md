@@ -1,9 +1,11 @@
 # `  💼  `・Devoir BTS SIO ・ SISR 2ᵉ année.
 
-![CEJMA](https://img.shields.io/badge/CEJMA-Academic_Work-blue)
-![Type](https://img.shields.io/badge/Type-Devoir-success)
-![Analysis](https://img.shields.io/badge/Work-Analysis-orange)
-![Markdown](https://img.shields.io/badge/Written_in-Markdown-black?logo=markdown)
+<p align="center">
+  <img src="https://img.shields.io/badge/CEJMA-Academic_Work-007ACC?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Type-Devoir-28A745?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Work-Analysis-FFA500?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Markdown-Written_in-2B7489?logo=markdown&style=for-the-badge">
+</p>
 
 
 * (DCP ・ Identité numérique ・ Preuve électronique ・ Sécurité équipements ・ Obligations légales)  
